@@ -1,9 +1,9 @@
-name='Kevin'
-address='Canoga Park, CA, 91304'
-telephone_number='626-802-8499'
-college_major='applied math'
+name = input("please tyoe in your name")
+address = input("please type in your address with your city state and ZIP ")
+number = input("please type in your telephone number")
+major = input("please type in your major")
 
-print("name: " name)
-print("adress: " address)
-print("telephone number: " telephone number)
-print("college major" college major)
+print("Your name is", name)
+print("Your address is", address)
+print("Your telephone number is", number)
+print("Your major is", major)
