@@ -4,7 +4,7 @@
 #Kevin Liu
 #Github<barbqueen>
 
-def find_the_largest(list, x, length, largest):
+def find_the_largest(list, x, largest):
     for x in list:
         if x > largest:
             largest = x
@@ -13,17 +13,17 @@ def find_the_largest(list, x, length, largest):
 def main():
     list = []
     stop = 1
-    while stop != 999:
-        value = int(input("enter value(exit with value 999):"))
-        if value != 999:
+    while stop != 999999:
+        value = int(input("enter value(exit with 999999):"))
+        if value != 999999:
             list.append(value)
         else:
-            stop = 999
-    length = int(len(list))
+            stop = 999999
     x = 0
     largest = list[0]
-    number = find_the_largest(list, x, length,largest)
+    number = find_the_largest(list, x,largest)
     print('The largest number in the list is:', number)
+
 main()
 
         
