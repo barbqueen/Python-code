@@ -1,6 +1,6 @@
 #File: exercise_4.py
 #Description: show the lowest and largest number in the list
-#Assignment Number: chapter5-4
+#Assignment Number: chapter7-4
 #Kevin Liu
 #Github<barbqueen>
 

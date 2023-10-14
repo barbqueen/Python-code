@@ -1,6 +1,6 @@
 """  """#File: exercise_2.py
 #Description: generate the digits of lottery
-#Assignment Number: chapter5-2
+#Assignment Number: chapter7-2
 #Kevin Liu
 #Github<barbqueen>
 

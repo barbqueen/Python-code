@@ -1,6 +1,6 @@
 #File: exercise_6.py
 #Description: generate random numbers and sort it
-#Assignment Number: chapter5-6
+#Assignment Number: chapter7-6
 #Kevin Liu
 #Github<barbqueen>
 

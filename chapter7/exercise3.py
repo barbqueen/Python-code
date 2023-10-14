@@ -1,6 +1,6 @@
 #File: exercise_3.py
 #Description: calculate the total and avarage amount of rainfall
-#Assignment Number: chapter5-3
+#Assignment Number: chapter7-3
 #Kevin Liu
 #Github<barbqueen>
 
