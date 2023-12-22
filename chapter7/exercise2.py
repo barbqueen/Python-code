@@ -1,4 +1,4 @@
-"""  """#File: exercise_2.py
+#File: exercise_2.py
 #Description: generate the digits of lottery
 #Assignment Number: chapter7-2
 #Kevin Liu
